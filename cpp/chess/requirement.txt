@@ -1,0 +1,9 @@
+System Requirements:
+1. System should support two online players
+2. All rules of international chess will be followed.
+Each player will be randomely assigned side, black or white,
+Each player will play thrie moves one after the other. The white side plays the first moves.
+Player can't cancel or rollback their mvoes.
+System should maintain the logs of all moves of both sides.
+Each side will start with 8 pawns, 2 rooks, 2 bishop , 2 knight, 1 queen and 1 king.
+The game can finish eithe in a checkmate from one side, fordeit or stalemate( a draw) or resignation.
